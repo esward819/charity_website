@@ -26,3 +26,14 @@
   flex: 33.33%;
   padding: 5px;
 }
+
+.links {
+  width: 1000px;
+  border: 15px solid darkorange;
+  padding: auto;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  background-color: white;
+  font-size: 25px;
+}
